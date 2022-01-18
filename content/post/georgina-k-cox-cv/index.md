@@ -13,7 +13,7 @@ Washington State University"""
 Current position
 =================
 
-<img src="/img/Picture-alewife.jpg" align="right" width="30%">
+<img src="https://www.georginacox.ca/authors/admin/avatar_hubc72ae0fb3cc6180ea63c29abb2ba237_297840_270x270_fill_q75_lanczos_center.jpg" align="right" width="30%">
 
 **Scholarly Assistant Professor**  
 2021 – present  
