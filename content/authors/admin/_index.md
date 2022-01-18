@@ -1,81 +1,59 @@
 ---
-# Display name
-name: Georgina Cox
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Postdoctoral Scholar
-
-# Organizations/Affiliations
 organizations:
-- name: University of Guelph
-  url: "https://www.uoguelph.ca"
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests broadly center on cardiovascular responses to physiological and abiotic stress. I use a comparative approach to look for commonalities in how cardiovascular systems in animals that inhabit heterogeneous environments overcome physiological and abiotic stress.
-
+  - name: Washington State University
+    url: https://www.vancouver.wsu.edu/
+superuser: true
+authors:
+  - admin
+bio: My research interests broadly center on cardiovascular responses to
+  physiological and abiotic stress. I use a comparative approach to look for
+  commonalities in how cardiovascular systems in animals that inhabit
+  heterogeneous environments overcome physiological and abiotic stress.
 interests:
-- Comparative cardiovascular physiology
-- Toxicology
-- Cardiac disease
-- Evolution of complex cardiovascular phenotypes
-- Cardiovascular morphology
-- Coronary circulation
-
+  - Comparative cardiovascular physiology
+  - Toxicology
+  - Cardiac disease
+  - Evolution of complex cardiovascular phenotypes
+  - Cardiovascular morphology
+  - Coronary circulation
 education:
   courses:
-  - course: Postdoctoral Scholar
-    institution: University of Guelph
-    year: 2018 to current
-  - course: Postdoctoral Scholar
-    institution: University of Pennsylvania, Perelmen School of Medicine, Department of Pharmacology
-    year: 2017 to 2018
-  - course: Postdoctoral Scholar
-    institution: University of Miami's Rosenstiel School of Marine and Atmospheric Science
-    year: 2015 to 2017
-  - course: PhD in Zoology/Animal Biology
-    institution: University of British Columbia
-    year: 2015
-  - course: MSc in Comparative Physiology
-    institution: University of British Columbia
-    year: 2010
-  - course: BSc in Biology
-    institution: University of New Brunswick
-    year: 2006
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:georgina@georginacox.ca".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=OGrwwEsAAAAJ&hl=en
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: post/georgina-k-cox-cv/
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+    - course: Postdoctoral Scholar
+      institution: University of Guelph
+      year: 2018 to current
+    - course: Postdoctoral Scholar
+      institution: University of Pennsylvania, Perelmen School of Medicine, Department
+        of Pharmacology
+      year: 2017 to 2018
+    - course: Postdoctoral Scholar
+      institution: University of Miami's Rosenstiel School of Marine and Atmospheric Science
+      year: 2015 to 2017
+    - course: PhD in Zoology/Animal Biology
+      institution: University of British Columbia
+      year: 2015
+    - course: MSc in Comparative Physiology
+      institution: University of British Columbia
+      year: 2010
+    - course: BSc in Biology
+      institution: University of New Brunswick
+      year: 2006
 user_groups:
-- Researchers
-- Visitors
-
+  - Researchers
+  - Visitors
+name: Georgina Cox
+title: Georgina K. Cox
+role: Postdoctoral Scholar
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=OGrwwEsAAAAJ&hl=en
+  - icon: cv
+    icon_pack: ai
+    link: post/georgina-k-cox-cv/
+email: ""
 ---
 
 My research interests broadly center on cardiovascular responses to physiological and abiotic stress. I use a comparative approach to look for commonalities in how cardiovascular systems in animals that inhabit heterogeneous environments overcome physiological and abiotic stress. By conducting research on a phylogenetically diverse number of fish species (including agnathans, chondrichthyans and teleosts), and mammals I have discovered various metabolic, functional, and morphological phenotypes that affect species sensitivity or persistence in the face of anoxia, temperature variation, pollution, and disease. The unifying goal of my research is to make fundamental discoveries on cardiovascular function and apply them to further our understanding of species’ underlying physiology.
