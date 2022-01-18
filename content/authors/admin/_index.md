@@ -53,7 +53,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: post/georgina-k-cox-cv/
-email: ""
+email: "georgina@georginacox.ca"
 ---
 
 My research interests broadly center on cardiovascular responses to physiological and abiotic stress. I use a comparative approach to look for commonalities in how cardiovascular systems in animals that inhabit heterogeneous environments overcome physiological and abiotic stress. By conducting research on a phylogenetically diverse number of fish species (including agnathans, chondrichthyans and teleosts), and mammals I have discovered various metabolic, functional, and morphological phenotypes that affect species sensitivity or persistence in the face of anoxia, temperature variation, pollution, and disease. The unifying goal of my research is to make fundamental discoveries on cardiovascular function and apply them to further our understanding of species’ underlying physiology.
@@ -66,7 +66,7 @@ During my first postdoc I expanded my work to investigate whether phenotypic pla
 
 During a post doctoral research position at the University of Pennsylvania I utilized gene knockout and inducible gene knockout models to investigate how specific cell signaling pathways can lead to disease states, such as cardiomyopathy, cardiac conduction disease, and sudden cardiac death in mammalian models. Working with biomedical models has allowed me to expand my skillset to include genetic sequencing and these are valuable tools when considering the diverse responses of the cardiovascular system to environmental changes across species of ectothermic animals.
 
-I am currently at in the Department of Integrative Biology at the University of Guelph in Todd Gillis' lab https://comparativephys.ca/gillislab/ where I am investigating the spectacular anoxia tolerance of a phylogenetically ancient species of hagfish. I have previously discovered a number of diverse cardiovascular and biochemical phenotypes that permitted survival of these fish for >36h of complete oxygen deprivation in the Farrell lab at the University of British Columbia (UBC). These discoveries provided new insight into cardiovascular function that has been traditionally viewed as a highly aerobic process. Currently I am expanding on discoveries made in the Gillis lab that indicate hagfish a use atypical biochemical pathways to ensure their anoxic survival - stay tuned.
+I was previously at in the Department of Integrative Biology at the University of Guelph in Todd Gillis' lab https://comparativephys.ca/gillislab/ where I investigated the spectacular anoxia tolerance of a phylogenetically ancient species of hagfish. I have previously discovered a number of diverse cardiovascular and biochemical phenotypes that permitted survival of these fish for >36h of complete oxygen deprivation in the Farrell lab at the University of British Columbia (UBC). These discoveries provided new insight into cardiovascular function that has been traditionally viewed as a highly aerobic process. Currently I am expanding on discoveries made in the Gillis lab that indicate hagfish a use atypical biochemical pathways to ensure their anoxic survival - stay tuned.
 
 
 

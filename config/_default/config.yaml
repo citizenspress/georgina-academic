@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Georgina K. Cox # Website name
-baseurl: 'https://georginacox.ca/' # Website URL
+baseurl: 'https://www.georginacox.ca/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
