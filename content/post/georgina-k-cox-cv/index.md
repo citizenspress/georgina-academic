@@ -4,8 +4,8 @@ draft = false
 tags = ["CV"]
 title = "Georgina K. Cox: Curriculum Vitae"
 math = false
-summary = """
-Post Doctoral Fellow, Department of Integrative Biology, University of Guelph (2019 – present)."""
+summary = """Scholarly Assistant Professor
+Washington State University"""
 
 +++
 
@@ -13,22 +13,11 @@ Post Doctoral Fellow, Department of Integrative Biology, University of Guelph (2
 Current position
 =================
 
-
-
 <img src="/img/Picture-alewife.jpg" align="right" width="30%">
 
-**Post Doctoral Fellow**  
-2018 – present  
-University of Guelph  
-Department of Integrative Biology  
-Supervisor: Dr. Todd Gillis
-
-> **Contact Information**  
-> Department of Integrative Biology  
-> University of Guelph  
-> 50 Stone Road East  
-> Guelph, Ontario, Canada, N1G 2W1
-> Email: [georgina@georginacox.ca](georgina@georginacox.ca)
+**Scholarly Assistant Professor**  
+2021 – present  
+Washington State University Vancouver  
 
 ---
 
