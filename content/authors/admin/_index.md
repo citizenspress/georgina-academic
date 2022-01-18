@@ -42,7 +42,7 @@ user_groups:
   - Visitors
 name: Georgina Cox
 title: Georgina K. Cox
-role: Postdoctoral Scholar
+role: Scholarly Assistant Professor
 social:
   - icon: envelope
     icon_pack: fas
